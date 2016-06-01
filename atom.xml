@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>111</title>
-  <subtitle>111</subtitle>
+  <title>����ΰ ��������</title>
+  <subtitle>��������</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://smodin.github.io/smodi.github.io/"/>
@@ -9,7 +9,7 @@
   <id>http://smodin.github.io/smodi.github.io/</id>
   
   <author>
-    <name>smodi</name>
+    <name>����ΰ</name>
     
   </author>
   
