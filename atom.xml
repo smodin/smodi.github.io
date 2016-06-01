@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://smodin.github.io/smodi.github.io/"/>
-  <updated>2016-06-01T11:41:41.674Z</updated>
+  <updated>2016-06-01T11:38:42.826Z</updated>
   <id>http://smodin.github.io/smodi.github.io/</id>
   
   <author>
@@ -14,22 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>一个人在这里</title>
-    <link href="http://smodin.github.io/smodi.github.io/2016/06/01/%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9C%A8%E8%BF%99%E9%87%8C/"/>
-    <id>http://smodin.github.io/smodi.github.io/2016/06/01/一个人在这里/</id>
-    <published>2016-06-01T11:41:41.000Z</published>
-    <updated>2016-06-01T11:41:41.674Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
