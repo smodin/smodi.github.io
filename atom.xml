@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://smodin.github.io/smodi.github.io/"/>
-  <updated>2016-06-01T14:24:53.168Z</updated>
+  <updated>2016-06-05T02:59:38.449Z</updated>
   <id>http://smodin.github.io/smodi.github.io/</id>
   
   <author>
@@ -16,18 +16,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>萌萌的</title>
-    <link href="http://smodin.github.io/smodi.github.io/2016/06/01/%E8%90%8C%E8%90%8C%E7%9A%84/"/>
-    <id>http://smodin.github.io/smodi.github.io/2016/06/01/萌萌的/</id>
-    <published>2016-06-01T14:18:25.000Z</published>
-    <updated>2016-06-01T14:24:53.168Z</updated>
+    <title>安装固态硬盘</title>
+    <link href="http://smodin.github.io/smodi.github.io/2016/06/05/%E5%AE%89%E8%A3%85%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98/"/>
+    <id>http://smodin.github.io/smodi.github.io/2016/06/05/安装固态硬盘/</id>
+    <published>2016-06-05T02:39:11.000Z</published>
+    <updated>2016-06-05T02:59:38.449Z</updated>
     
-    <content type="html">&lt;p&gt;花了二个小时把站点与域名解析做好，以后个人心情与日志通过这个发布啦~~&lt;br&gt;萌萌的，萌萌的 &lt;/p&gt;
+    <content type="html">&lt;p&gt;  给T430电脑 加装了固态硬盘（120G）， 初装了WIN10系统，刚装上一周机器发热量比较大，最高时候持续90度，吓死宝宝了，后来发现WIN10本身的驱动安装还存在问题，找到驱动人生，重新安装了驱动，电脑发热的问题解决了。&lt;/p&gt;
+&lt;p&gt;  现在速度 扛扛的&lt;/p&gt;
+&lt;p&gt; 媳妇最近考驾照，希望8号可以顺利通过科目二， 9号回家休假，19号回来上班， 好好的调整， 好好的计划。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;花了二个小时把站点与域名解析做好，以后个人心情与日志通过这个发布啦~~&lt;br&gt;萌萌的，萌萌的 &lt;/p&gt;
+      &lt;p&gt;  给T430电脑 加装了固态硬盘（120G）， 初装了WIN10系统，刚装上一周机器发热量比较大，最高时候持续90度，吓死宝宝了，后来发现WIN10本身的驱动安装还存在问题，找到驱动人生，重新安装了驱动，电脑发热的问题解决了。&lt;/p&gt;
+&lt;p&gt;  现在速度 扛扛的&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>萌萌的</title>
+    <link href="http://smodin.github.io/smodi.github.io/2016/06/01/%E8%90%8C%E8%90%8C%E7%9A%84/"/>
+    <id>http://smodin.github.io/smodi.github.io/2016/06/01/萌萌的/</id>
+    <published>2016-06-01T14:18:25.000Z</published>
+    <updated>2016-06-05T02:42:08.599Z</updated>
+    
+    <content type="html">&lt;p&gt;花了些时间把站点与域名解析做好，以后个人心情与日志通过这个发布啦~~&lt;br&gt;萌萌啦，萌萌的 &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;花了些时间把站点与域名解析做好，以后个人心情与日志通过这个发布啦~~&lt;br&gt;萌萌啦，萌萌的 &lt;/p&gt;
 
     
     </summary>
